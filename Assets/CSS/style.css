@@ -1,0 +1,10 @@
+.titulos { color: blueviolet;
+    font-size:20px;
+ }
+body {font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em; 
+    font-weight: 300; 
+    font-style: italic;
+    background-color: #e1b4e5;
+        
+}
